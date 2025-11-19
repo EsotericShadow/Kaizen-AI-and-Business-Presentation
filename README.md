@@ -157,6 +157,17 @@ The exact prompt used for this demonstration is documented in [`LIVE_CODING_PROM
 
 - **PDF Presentation**: [`AI Business Presentation October 2025.pdf`](./AI-Business-Presentation-October-2025.pdf)
 - **Live Coding Prompt**: [`LIVE_CODING_PROMPT.md`](./LIVE_CODING_PROMPT.md)
+- **Research and Citations**: [`RESEARCH_AND_CITATIONS.md`](./RESEARCH_AND_CITATIONS.md)
+
+## Research Artifacts
+
+The research supporting this presentation is documented in the [`research/`](./research/) directory:
+
+- **AI Business Presentation Insights**: Market research data compilation
+- **Billion Dollar Marketing Campaign Theft Research**: Corporate strategy analysis
+- **Virtual Board Marketing Research Archive**: Strategic insights from industry leaders
+
+These research artifacts provide the foundation for the strategic AI concepts, industry applications, and marketing frameworks presented during the event.
 
 ## Additional Resources
 
