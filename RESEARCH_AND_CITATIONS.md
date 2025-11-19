@@ -4,18 +4,45 @@
 
 This document contains the research artifacts, data sources, and citations that support the claims and statistics presented in the AI & Business Presentation on October 23, 2025.
 
-## Key Statistics and Their Sources
+## Verifiable Research and Citations
 
 ### AI Business Value & ROI Statistics
 
-The following statistics were presented during the event:
+The following statistics were presented during the event, now updated with verifiable sources.
 
-- **Productivity Increase**: 30%+ overall productivity rise when teams use AI
-- **Task Completion Speed**: 40% faster completion when aided by AI systems
-- **Time Savings**: Average AI users save around 100 hours per year
-- **ROI**: Every $1 spent on AI delivers an estimated $3.70 in return
+#### Productivity and Task Completion
 
-**Note**: These statistics are based on industry research and market analysis. Specific sources should be cited when available.
+*   **Claim:** 30%+ overall productivity rise and 40% faster task completion when teams use AI.
+*   **Findings:**
+    *   A study by ApolloTechnical found that employees using AI reported an average productivity boost of 40%. The same report noted that 30% of workers attribute productivity improvements to time spent experimenting with AI tools.
+    *   Goldman Sachs estimates that generative AI could increase labor productivity in developed markets by approximately 15% once fully adopted, but other sources show much higher numbers.
+*   **Sources:**
+    *   **ApolloTechnical:** [AI Productivity Statistics](https://www.apollotechnical.com/artificial-intelligence-productivity-statistics/)
+    *   **Goldman Sachs:** [Generative AI could raise global GDP by 7%](https://www.goldmansachs.com/intelligence/pages/generative-ai-could-raise-global-gdp-by-7-percent.html)
+
+#### Time Savings
+
+*   **Claim:** Average AI users save around 100 hours per year.
+*   **Findings:**
+    *   A Thomson Reuters report states that workers using AI are saving an average of one hour per day, which could translate to nearly 200 hours freed up per person in 2025.
+    *   The Adecco Group and PeopleMattersGlobal have also reported similar findings, with AI saving workers significant amounts of time.
+*   **Sources:**
+    *   **Thomson Reuters:** [AI in the Workplace](https://www.thomsonreuters.com/en-us/posts/corporates/c-suite-execs-embrace-generative-ai/)
+    *   **Adecco Group:** [AI and the Future of Work](https://www.adeccogroup.com/future-of-work/latest-insights/the-real-impact-of-ai-in-the-workplace-a-study-by-adecco-group/)
+    *   **PeopleMattersGlobal:** [The Impact of AI on the Workplace](https://www.peoplemattersglobal.com/news/strategic-hr/the-impact-of-ai-on-the-workplace-what-you-need-to-know-38560)
+
+#### Return on Investment (ROI)
+
+*   **Claim:** Every $1 spent on AI delivers an estimated $3.70 in return.
+*   **Findings:**
+    *   Technology Record and ITPro have reported that companies using generative AI are seeing an average ROI of $3.70 for every $1 spent.
+    *   PeopleMattersGlobal reports a similar figure of $3.50 for every $1 strategically invested in AI.
+    *   The Data Experts and MIT research, however, suggest that while a small percentage of companies (5%) see significant returns, 95% of companies investing in AI are not yet seeing meaningful ROI.
+*   **Sources:**
+    *   **Technology Record:** [Generative AI ROI](https://www.technologyrecord.com/article/businesses-are-already-seeing-3-70-roi-for-every-1-spent-on-generative-ai)
+    *   **ITPro:** [Generative AI ROI](https://www.itpro.com/technology/artificial-intelligence/generative-ai-is-already-delivering-370-for-every-1-spent)
+    *   **PeopleMattersGlobal:** [The ROI of AI](https://www.peoplemattersglobal.com/news/strategic-hr/the-impact-of-ai-on-the-workplace-what-you-need-to-know-38560)
+    *   **The Data Experts (citing MIT):** [AI ROI](https://thedataexperts.us/f/unlocking-the-true-potential-of-ai-the-roi-challenge)
 
 ## Research Methodology
 
@@ -23,11 +50,11 @@ The following statistics were presented during the event:
 
 The research supporting this presentation was conducted through:
 
-1. **Industry Analysis**: Review of major AI adoption studies and reports
-2. **Company Research**: Analysis of billion-dollar marketing strategies
-3. **Local Market Research**: Northern BC business community analysis
-4. **Virtual Board Research**: Strategic insights from industry leaders
-5. **Competitive Intelligence**: Analysis of AI consultancy marketing approaches
+1.  **Industry Analysis**: Review of major AI adoption studies and reports
+2.  **Company Research**: Analysis of billion-dollar marketing strategies
+3.  **Local Market Research**: Northern BC business community analysis
+4.  **Virtual Board Research**: Strategic insights from industry leaders
+5.  **Competitive Intelligence**: Analysis of AI consultancy marketing approaches
 
 ## Research Artifacts
 
@@ -314,4 +341,3 @@ All research artifacts are located in:
 ---
 
 *This document compiles research artifacts and citations supporting the AI & Business Presentation. Specific citations should be added as they become available.*
-
